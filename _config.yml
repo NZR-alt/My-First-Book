@@ -14,3 +14,9 @@ include:
   - PULL_REQUEST_TEMPLATE.md
 
 theme: jekyll-theme-modernist
+
+---
+layout: post
+title: "Research Data Management Book of Knowledge"
+toc: true
+---
