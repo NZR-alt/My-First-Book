@@ -14,4 +14,4 @@ title: "Research Data Management Book of Knowledge - 2"
 
 theme: jekyll-theme-slate
 
-include: [chapter_1.md]
+include: chapter_1.md
