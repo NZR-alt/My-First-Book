@@ -4,7 +4,7 @@ relative_links:
   enabled: true
   collections: true
 include:
-  - chapter_*
+  - chapter_*\*.md
   - CONTRIBUTING.md
   - README.md
   - LICENSE.md
