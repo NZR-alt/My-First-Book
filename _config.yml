@@ -1,6 +1,5 @@
 plugins:
   - jekyll-relative-links
-  - jekyll-toc
 relative_links:
   enabled: true
   collections: true
@@ -19,5 +18,4 @@ theme: jekyll-theme-modernist
 ---
 layout: post
 title: "Research Data Management Book of Knowledge"
-toc: true
 ---
