@@ -4,7 +4,7 @@ relative_links:
   enabled: true
   collections: true
 include:
-  - chapter_1/main.md
+  - "chapter_1/main.md"
   - README.md
 
 theme: jekyll-theme-modernist
