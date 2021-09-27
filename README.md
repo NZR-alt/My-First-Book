@@ -5,8 +5,4 @@ This is from the readme.md file!
 
 And I can use _md_ notation for italics.
 
-* [Chapter 1](./chapter_1/main.md)
-* [Chapter 2](./chapter_2/main.md)
-{:toc}
-
 
