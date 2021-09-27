@@ -4,9 +4,9 @@ relative_links:
   enabled: true
   collections: true
 include:
-  - chapter_1/main.md
   - README.md
-
+  - chapter_1/main.md
+  
 theme: jekyll-theme-modernist
 
 markdown: kramdown
