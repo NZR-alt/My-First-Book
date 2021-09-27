@@ -1,4 +1,6 @@
 # Read me file header
+{:.no_toc}
+
 A book test
 
 This is from the readme.md file! 
