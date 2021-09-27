@@ -13,3 +13,5 @@ markdown: kramdown
 
 
 title: "Research Data Management Book of Knowledge"
+
+theme: jekyll-theme-slate
