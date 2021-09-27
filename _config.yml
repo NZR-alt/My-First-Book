@@ -16,7 +16,5 @@ include:
 theme: jekyll-theme-modernist
 markdown: kramdown
 
----
-layout: post
+
 title: "Research Data Management Book of Knowledge"
----
