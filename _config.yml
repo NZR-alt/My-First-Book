@@ -5,7 +5,11 @@ relative_links:
   collections: true
   
 markdown: kramdown
-
+kramdown:
+ auto_ids: true
+ hard_wrap: false
+ syntax_highlighter: rouge
+ 
 title: "Research Data Management Book of Knowledge"
 
 theme: jekyll-theme-slate
