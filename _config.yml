@@ -8,7 +8,7 @@ include:
   - chapter_1.md
 
   
-theme: jekyll-theme-modernist
+theme: jekyll-titles-from-headings
 
 markdown: kramdown
 
