@@ -10,6 +10,6 @@ kramdown:
  hard_wrap: false
  syntax_highlighter: rouge
  
-title: "Research Data Management Book of Knowledge"
+title: "Research Data Management Book of Knowledge - 2"
 
 theme: jekyll-theme-slate
