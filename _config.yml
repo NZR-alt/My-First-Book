@@ -5,8 +5,9 @@ relative_links:
   enabled: true
   collections: true
 include:
-  - README.md
-  - chapter_1.md
+- chapter_1.md
+- README.md
+
 
   
 markdown: kramdown
